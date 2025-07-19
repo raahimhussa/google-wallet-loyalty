@@ -1,0 +1,64 @@
+# Laravel General
+/node_modules/
+/public/hot
+/public/storage
+/public/build
+/storage/app/public
+/storage/framework/cache/data/
+/storage/framework/sessions/
+/storage/framework/views/
+/storage/logs
+/vendor/
+.env
+.phpunit.cache
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+.Trashes
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Windows
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+
+# IDEs & Editors
+/.vscode/
+/.idea/
+/.fleet/
+/.zed/
+.phpactor.json
+auth.json
+
+# Pail
+/storage/pail/
+
+# Logs
+*.log
+
+# Sensitive Files
+/storage/*.key
+.env.backup
+.env.production
